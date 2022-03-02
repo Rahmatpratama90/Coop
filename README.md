@@ -7,7 +7,7 @@
 
 # I. Getting Started
 * This Repository Contain Arduino Code for Actuator Controller in CHicken Coop
-* The Actuators is : Heater, Lamp, Fan, and Dimmer 
+* The Actuator is : Heater, Lamp, Fan, and Dimmer 
 # II. Prerequisite
 
 Software :
