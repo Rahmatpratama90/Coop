@@ -6,7 +6,7 @@
 </p>
 
 # I. Getting Started
-* This Repository Contain Arduino Code for Actuator Controller in CHicken Coop
+* This Repository Contain Arduino Code for Actuator Controller in Chicken Coop
 * The Actuator is : Heater, Lamp, Fan, and Dimmer 
 # II. Prerequisite
 
